@@ -1,4 +1,4 @@
-soundcollaboration
+SoundCollaboration
 ==================
 
-Simple web app that turns soundcloud playlists into collaborative playlists
+Simple web app that turns SoundCloud playlists into collaborative playlists
